@@ -1,0 +1,12 @@
+Most hard drives do not need any firmware update
+This article will describe under what conditions a firmware update is relevant
+Firmware is defined as a computer program that is hard-coded into the hard drive and contains its basic operational storage programming
+Another way to think of it is that firmware is a software middleman that allows your hardware to talk to software
+For a hard drive firmware is a program that governs the behavior and factory settings, even the identity, of that drive
+Any drive that comes out of the factory and is in use in a computer or server has firmware installed on it from the factory
+Performing a firmware update can be risky by itself even in the best of situations
+For example, a power outage during a firmware update carries a very good possibility of ruining the drive
+External, Serial ATA, and ATA drives are not designed for field firmware updates by end users
+Very often, system or device driver issues cause symptoms that are incorrectly called firmware problems
+Enter your drive part number and serial number into the Download Finder to see if there is an update available for your product
+If there is an update, follow the instructions on the page

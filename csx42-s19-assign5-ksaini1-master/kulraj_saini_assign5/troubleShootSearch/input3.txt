@@ -1,0 +1,8 @@
+reuseable:renewable
+password:credentials
+rides:drives
+static:anti-static
+trust:reliability
+photo:portfolio
+reset:settings
+downloaded:installed

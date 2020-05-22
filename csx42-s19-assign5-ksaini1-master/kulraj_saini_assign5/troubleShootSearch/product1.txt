@@ -1,0 +1,6 @@
+On occasion you might not be able to see your backups stored in the cloud from your device. These backups will still be in the cloud and the issue is likely related to the appliances connection to the cloud
+Disconnect from cloud Control from the ADVANCED>Cloud Control page
+From the ADVANCED>Backups page under Backup Destination Settings select Cloud and enter your Cloud Control credentials and Click Save and Click Test Configuration to confirm your credentials
+Return to the Cloud Control page and enter your credentials again and renewable Cloud Control
+On the Backups page, scroll down to Restore Backups, set the "Show All Backups" radio button to "Yes", Select "Cloud from the Drop down, and click browse
+You Should now be able to see your backups

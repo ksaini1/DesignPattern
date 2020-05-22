@@ -1,0 +1,157 @@
+
+EXACT MATCH FOUND IN PRODUCT1
+ Disconnect from cloud Control from the ADVANCED>Cloud Control page
+ From the ADVANCED>Backups page under Backup Destination Settings select Cloud and enter your Cloud Control credentials and Click Save and Click Test Configuration to confirm your credentials
+
+EXACT MATCH FOUND IN PRODUCT2
+ Detailed instructions for installing Serial ATA drives in your computer, including cabling, jumper, and operating system information and troubleshooting problems that may arise
+ Disc drives are fragile. Do not drop or jar the drive
+
+EXACT MATCH FOUND IN PRODUCT3
+ Seagate DuraWrite� lossless data
+ Tunable capacity for performanceor capacity-optimized SSD
+
+EXACT MATCH FOUND IN PRODUCT4
+ This article will describe under what conditions a firmware update is relevant
+ Enter your drive part number and serial number into the Download Finder to see if there is an update available for your product
+
+ MATCH FOUND FOR THE FIRST WORD IN PRODUCT1
+ On occasion you might not be able to see your backups stored in the cloud from your device. These backups will still be in the cloud and the issue is likely related to the appliances connection to the cloud
+ On occasion you might not be able to see your backups stored in the cloud from your device. These backups will still be in the cloud and the issue is likely related to the appliances connection to the cloud
+ Disconnect from cloud Control from the ADVANCED>Cloud Control page
+ Disconnect from cloud Control from the ADVANCED>Cloud Control page
+ From the ADVANCED>Backups page under Backup Destination Settings select Cloud and enter your Cloud Control credentials and Click Save and Click Test Configuration to confirm your credentials
+ From the ADVANCED>Backups page under Backup Destination Settings select Cloud and enter your Cloud Control credentials and Click Save and Click Test Configuration to confirm your credentials
+ Return to the Cloud Control page and enter your credentials again and renewable Cloud Control
+ Return to the Cloud Control page and enter your credentials again and renewable Cloud Control
+ On the Backups page, scroll down to Restore Backups, set the "Show All Backups" radio button to "Yes", Select "Cloud from the Drop down, and click browse
+
+ MATCH FOUND FOR THE FIRST WORD IN PRODUCT2
+ Detailed instructions for installing Serial ATA drives in your computer, including cabling, jumper, and operating system information and troubleshooting problems that may arise
+ Detailed instructions for installing Serial ATA drives in your computer, including cabling, jumper, and operating system information and troubleshooting problems that may arise
+ Unlike Parallel ATA, there is no master-slave relationship between drives that use a Serial ATA interface
+ Unlike Parallel ATA, there is no master-slave relationship between drives that use a Serial ATA interface
+ You can use a Serial ATA drive in the same system with Parallel ATA drives as long as both interfaces are supported on the motherboard or with a host adapter
+ This makes it easy to add Serial ATA compatibility to your existing system without removing existing Parallel ATA disk drives
+ Disc drives are fragile. Do not drop or jar the drive
+ Handle the drive only by the edges or frame
+ Keep the drive in the protective anti-static container until you are ready to install it to minimize handling damage
+ Keep the drive in the protective anti-static container until you are ready to install it to minimize handling damage
+ While installing the drive, wear a wrist strap and cable connected to ground
+ Do not disassemble the drive. Doing so voids the warranty
+
+ MATCH FOUND FOR THE FIRST WORD IN PRODUCT3
+ Seagate DuraWrite� lossless data
+ Tunable capacity for performanceor capacity-optimized SSD
+ Enterprise-class reliability with 2Mhr. MTBF and a 5-year limited
+ Enterprise-class reliability with 2Mhr. MTBF and a 5-year limited
+ All-flash array NAS
+ Boost the performance of NAS, which requires faster random access performance
+ Maintain fast, consistent performance for read-intensive and mixed workloads
+ Choose built-in drive monitoring with enabled NAS with IronWolf Health
+ Require less energy to run on 24�7 NAS, and save on cooling and overall energy
+ cost Acquire the capacity and endurance to fit a range of applications and workloads
+ Scalable for Data Growth in NAS Leverage a wide portfolio to fit your growing business needs Depend on a 5-year limited warranty and included 2-year Data Recovery Services
+ Scalable for Data Growth in NAS Leverage a wide portfolio to fit your growing business needs Depend on a 5-year limited warranty and included 2-year Data Recovery Services
+
+ MATCH FOUND FOR THE FIRST WORD IN PRODUCT4
+ Most hard drives do not need any firmware update
+ This article will describe under what conditions a firmware update is relevant
+ This article will describe under what conditions a firmware update is relevant
+ Firmware is defined as a computer program that is hard-coded into the hard drive and contains its basic operational storage programming
+ Firmware is defined as a computer program that is hard-coded into the hard drive and contains its basic operational storage programming
+ Another way to think of it is that firmware is a software middleman that allows your hardware to talk to software
+ Another way to think of it is that firmware is a software middleman that allows your hardware to talk to software
+ For a hard drive firmware is a program that governs the behavior and factory settings, even the identity, of that drive
+ For a hard drive firmware is a program that governs the behavior and factory settings, even the identity, of that drive
+ For a hard drive firmware is a program that governs the behavior and factory settings, even the identity, of that drive
+ Any drive that comes out of the factory and is in use in a computer or server has firmware installed on it from the factory
+ Any drive that comes out of the factory and is in use in a computer or server has firmware installed on it from the factory
+ Any drive that comes out of the factory and is in use in a computer or server has firmware installed on it from the factory
+ Performing a firmware update can be risky by itself even in the best of situations
+ For example, a power outage during a firmware update carries a very good possibility of ruining the drive
+ For example, a power outage during a firmware update carries a very good possibility of ruining the drive
+ External, Serial ATA, and ATA drives are not designed for field firmware updates by end users
+ External, Serial ATA, and ATA drives are not designed for field firmware updates by end users
+ Very often, system or device driver issues cause symptoms that are incorrectly called firmware problems
+ Enter your drive part number and serial number into the Download Finder to see if there is an update available for your product
+ Enter your drive part number and serial number into the Download Finder to see if there is an update available for your product
+
+SEMANTIC MATCH FOUND IN PRODUCT1
+ Disconnect from cloud Control from the ADVANCED>Cloud Control page
+ Disconnect from cloud Control from the ADVANCED>Cloud Control page
+ Disconnect from cloud Control from the ADVANCED>Cloud Control page
+ Disconnect from cloud Control from the ADVANCED>Cloud Control page
+ Disconnect from cloud Control from the ADVANCED>Cloud Control page
+ Disconnect from cloud Control from the ADVANCED>Cloud Control page
+ Disconnect from cloud Control from the ADVANCED>Cloud Control page
+ Disconnect from cloud Control from the ADVANCED>Cloud Control page
+ From the ADVANCED>Backups page under Backup Destination Settings select Cloud and enter your Cloud Control credentials and Click Save and Click Test Configuration to confirm your credentials
+ From the ADVANCED>Backups page under Backup Destination Settings select Cloud and enter your Cloud Control credentials and Click Save and Click Test Configuration to confirm your credentials
+ From the ADVANCED>Backups page under Backup Destination Settings select Cloud and enter your Cloud Control credentials and Click Save and Click Test Configuration to confirm your credentials
+ From the ADVANCED>Backups page under Backup Destination Settings select Cloud and enter your Cloud Control credentials and Click Save and Click Test Configuration to confirm your credentials
+ From the ADVANCED>Backups page under Backup Destination Settings select Cloud and enter your Cloud Control credentials and Click Save and Click Test Configuration to confirm your credentials
+ From the ADVANCED>Backups page under Backup Destination Settings select Cloud and enter your Cloud Control credentials and Click Save and Click Test Configuration to confirm your credentials
+ From the ADVANCED>Backups page under Backup Destination Settings select Cloud and enter your Cloud Control credentials and Click Save and Click Test Configuration to confirm your credentials
+ From the ADVANCED>Backups page under Backup Destination Settings select Cloud and enter your Cloud Control credentials and Click Save and Click Test Configuration to confirm your credentials
+ Return to the Cloud Control page and enter your credentials again and renewable Cloud Control
+
+SEMANTIC MATCH FOUND IN PRODUCT2
+ Detailed instructions for installing Serial ATA drives in your computer, including cabling, jumper, and operating system information and troubleshooting problems that may arise
+ Detailed instructions for installing Serial ATA drives in your computer, including cabling, jumper, and operating system information and troubleshooting problems that may arise
+ Detailed instructions for installing Serial ATA drives in your computer, including cabling, jumper, and operating system information and troubleshooting problems that may arise
+ Detailed instructions for installing Serial ATA drives in your computer, including cabling, jumper, and operating system information and troubleshooting problems that may arise
+ Detailed instructions for installing Serial ATA drives in your computer, including cabling, jumper, and operating system information and troubleshooting problems that may arise
+ Detailed instructions for installing Serial ATA drives in your computer, including cabling, jumper, and operating system information and troubleshooting problems that may arise
+ Detailed instructions for installing Serial ATA drives in your computer, including cabling, jumper, and operating system information and troubleshooting problems that may arise
+ Detailed instructions for installing Serial ATA drives in your computer, including cabling, jumper, and operating system information and troubleshooting problems that may arise
+ You can use a Serial ATA drive in the same system with Parallel ATA drives as long as both interfaces are supported on the motherboard or with a host adapter
+ Disc drives are fragile. Do not drop or jar the drive
+ Disc drives are fragile. Do not drop or jar the drive
+ Disc drives are fragile. Do not drop or jar the drive
+ Disc drives are fragile. Do not drop or jar the drive
+ Disc drives are fragile. Do not drop or jar the drive
+ Disc drives are fragile. Do not drop or jar the drive
+ Disc drives are fragile. Do not drop or jar the drive
+ Disc drives are fragile. Do not drop or jar the drive
+ Keep the drive in the protective anti-static container until you are ready to install it to minimize handling damage
+
+SEMANTIC MATCH FOUND IN PRODUCT3
+ Seagate DuraWrite� lossless data
+ Seagate DuraWrite� lossless data
+ Seagate DuraWrite� lossless data
+ Seagate DuraWrite� lossless data
+ Seagate DuraWrite� lossless data
+ Seagate DuraWrite� lossless data
+ Seagate DuraWrite� lossless data
+ Seagate DuraWrite� lossless data
+ Tunable capacity for performanceor capacity-optimized SSD
+ Tunable capacity for performanceor capacity-optimized SSD
+ Tunable capacity for performanceor capacity-optimized SSD
+ Tunable capacity for performanceor capacity-optimized SSD
+ Tunable capacity for performanceor capacity-optimized SSD
+ Tunable capacity for performanceor capacity-optimized SSD
+ Tunable capacity for performanceor capacity-optimized SSD
+ Tunable capacity for performanceor capacity-optimized SSD
+ Enterprise-class reliability with 2Mhr. MTBF and a 5-year limited
+ Scalable for Data Growth in NAS Leverage a wide portfolio to fit your growing business needs Depend on a 5-year limited warranty and included 2-year Data Recovery Services
+
+SEMANTIC MATCH FOUND IN PRODUCT4
+ This article will describe under what conditions a firmware update is relevant
+ This article will describe under what conditions a firmware update is relevant
+ This article will describe under what conditions a firmware update is relevant
+ This article will describe under what conditions a firmware update is relevant
+ This article will describe under what conditions a firmware update is relevant
+ This article will describe under what conditions a firmware update is relevant
+ This article will describe under what conditions a firmware update is relevant
+ This article will describe under what conditions a firmware update is relevant
+ For a hard drive firmware is a program that governs the behavior and factory settings, even the identity, of that drive
+ Any drive that comes out of the factory and is in use in a computer or server has firmware installed on it from the factory
+ Enter your drive part number and serial number into the Download Finder to see if there is an update available for your product
+ Enter your drive part number and serial number into the Download Finder to see if there is an update available for your product
+ Enter your drive part number and serial number into the Download Finder to see if there is an update available for your product
+ Enter your drive part number and serial number into the Download Finder to see if there is an update available for your product
+ Enter your drive part number and serial number into the Download Finder to see if there is an update available for your product
+ Enter your drive part number and serial number into the Download Finder to see if there is an update available for your product
+ Enter your drive part number and serial number into the Download Finder to see if there is an update available for your product
+ Enter your drive part number and serial number into the Download Finder to see if there is an update available for your product

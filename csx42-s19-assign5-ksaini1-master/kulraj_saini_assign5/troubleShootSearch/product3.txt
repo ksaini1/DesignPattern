@@ -1,0 +1,22 @@
+SATA 6Gb/s interface for easy
+deployment
+Seagate DuraWrite™ lossless data
+reduction technology
+Tunable capacity for performanceor capacity-optimized SSD
+solutions
+Power loss data protection circuit
+Enterprise-class reliability with 2Mhr. MTBF and a 5-year limited
+warranty
+Best-Fit Applications
+All-flash array NAS
+Tiered caching on enabled NAS
+Creative pro NAS
+Boost the performance of NAS, which requires faster random access performance
+Maintain fast, consistent performance for read-intensive and mixed workloads
+Choose built-in drive monitoring with enabled NAS with IronWolf Health
+Management
+Always Accessible, Always Ready
+Require less energy to run on 24×7 NAS, and save on cooling and overall energy
+cost Acquire the capacity and endurance to fit a range of applications and workloads
+Scalable for Data Growth in NAS Leverage a wide portfolio to fit your growing business needs Depend on a 5-year limited warranty and included 2-year Data Recovery Services
+Small medium enterprise NAS

@@ -1,0 +1,15 @@
+Detailed instructions for installing Serial ATA drives in your computer, including cabling, jumper, and operating system information and troubleshooting problems that may arise
+Serial ATA interface disk drives are designed for easy installation
+With a Serial ATA interface, each disk drive has its own cable that connects directly to a Serial ATA host adapter or a Serial ATA port on your motherboard
+Unlike Parallel ATA, there is no master-slave relationship between drives that use a Serial ATA interface
+Because of this, there is no jumper to set to make a Serial ATA drive a master or slave on its cable, as it will be the only drive connected to that data cable
+You can use a Serial ATA drive in the same system with Parallel ATA drives as long as both interfaces are supported on the motherboard or with a host adapter
+This makes it easy to add Serial ATA compatibility to your existing system without removing existing Parallel ATA disk drives
+Disc drives are fragile. Do not drop or jar the drive
+Handle the drive only by the edges or frame
+Keep the drive in the protective anti-static container until you are ready to install it to minimize handling damage
+Drive electronics are extremely sensitive to static electricity
+While installing the drive, wear a wrist strap and cable connected to ground
+Turn off the power to the host system during installation
+Do not disassemble the drive. Doing so voids the warranty
+Do not apply pressure or attach labels to the circuit board or to the top of the drive
